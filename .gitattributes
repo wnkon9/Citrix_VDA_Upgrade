@@ -1,2 +1,2 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+# This is to use only for Citrix VDA upgrade via deployment tools such as SCCM.
